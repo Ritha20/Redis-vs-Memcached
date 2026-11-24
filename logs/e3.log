@@ -1,0 +1,16 @@
+[E3] medium {'kind': 'redis', 'write_ratio': 0.5, 'clients': 16, 'persistence': 'none'} rep0: 23907 ops/s p50=598us p99=2456us err=0
+[E3] medium {'kind': 'redis', 'write_ratio': 0.5, 'clients': 16, 'persistence': 'none'} rep1: 25626 ops/s p50=568us p99=1768us err=0
+[E3] medium {'kind': 'redis', 'write_ratio': 0.5, 'clients': 16, 'persistence': 'none'} rep2: 35456 ops/s p50=435us p99=1082us err=0
+[E3] medium {'kind': 'redis', 'write_ratio': 0.5, 'clients': 16, 'persistence': 'rdb'} rep0: 34066 ops/s p50=451us p99=1086us err=0
+[E3] medium {'kind': 'redis', 'write_ratio': 0.5, 'clients': 16, 'persistence': 'rdb'} rep1: 34145 ops/s p50=444us p99=1282us err=0
+[E3] medium {'kind': 'redis', 'write_ratio': 0.5, 'clients': 16, 'persistence': 'rdb'} rep2: 30472 ops/s p50=498us p99=1235us err=0
+[E3] medium {'kind': 'redis', 'write_ratio': 0.5, 'clients': 16, 'persistence': 'aof_everysec'} rep0: 30676 ops/s p50=466us p99=1856us err=0
+[E3] medium {'kind': 'redis', 'write_ratio': 0.5, 'clients': 16, 'persistence': 'aof_everysec'} rep1: 29620 ops/s p50=506us p99=1373us err=0
+[E3] medium {'kind': 'redis', 'write_ratio': 0.5, 'clients': 16, 'persistence': 'aof_everysec'} rep2: 26863 ops/s p50=532us p99=2069us err=0
+[E3] medium {'kind': 'redis', 'write_ratio': 0.5, 'clients': 16, 'persistence': 'aof_always'} rep0: 11483 ops/s p50=1233us p99=3886us err=0
+[E3] medium {'kind': 'redis', 'write_ratio': 0.5, 'clients': 16, 'persistence': 'aof_always'} rep1: 10764 ops/s p50=1339us p99=4615us err=0
+[E3] medium {'kind': 'redis', 'write_ratio': 0.5, 'clients': 16, 'persistence': 'aof_always'} rep2: 12764 ops/s p50=1099us p99=3535us err=0
+[E3] medium {'kind': 'memcached', 'write_ratio': 0.5, 'clients': 16} rep0: 83975 ops/s p50=164us p99=597us err=0
+[E3] medium {'kind': 'memcached', 'write_ratio': 0.5, 'clients': 16} rep1: 68051 ops/s p50=195us p99=818us err=0
+[E3] medium {'kind': 'memcached', 'write_ratio': 0.5, 'clients': 16} rep2: 75089 ops/s p50=184us p99=685us err=0
+ALLDONE

@@ -1,0 +1,10 @@
+[E5] {'config': 'memcached', 'rep': 0, 'acked_total': 95000, 'survived': 0, 'lost': 95000, 'survival_pct': 0.0, 'lost_seconds_of_writes': None, 'recovery_s': 0.05113029479980469, 'new_sessions_written': 75000}
+[E5] {'config': 'memcached', 'rep': 1, 'acked_total': 95000, 'survived': 0, 'lost': 95000, 'survival_pct': 0.0, 'lost_seconds_of_writes': None, 'recovery_s': 0.05112123489379883, 'new_sessions_written': 75000}
+[E5] {'config': 'none', 'rep': 0, 'acked_total': 95000, 'survived': 0, 'lost': 95000, 'survival_pct': 0.0, 'lost_seconds_of_writes': None, 'recovery_s': 0.05364584922790527, 'new_sessions_written': 75000}
+[E5] {'config': 'none', 'rep': 1, 'acked_total': 95000, 'survived': 0, 'lost': 95000, 'survival_pct': 0.0, 'lost_seconds_of_writes': None, 'recovery_s': 0.053241729736328125, 'new_sessions_written': 75000}
+[E5] {'config': 'rdb', 'rep': 0, 'acked_total': 94999, 'survived': 80729, 'lost': 14270, 'survival_pct': 84.97878925041316, 'lost_seconds_of_writes': 14.27, 'recovery_s': 0.5715146064758301, 'new_sessions_written': 74999}
+[E5] {'config': 'rdb', 'rep': 1, 'acked_total': 95000, 'survived': 80289, 'lost': 14711, 'survival_pct': 84.51473684210526, 'lost_seconds_of_writes': 14.711, 'recovery_s': 0.6171247959136963, 'new_sessions_written': 75000}
+[E5] {'config': 'aof_everysec', 'rep': 0, 'acked_total': 95000, 'survived': 95000, 'lost': 0, 'survival_pct': 100.0, 'lost_seconds_of_writes': 0.0, 'recovery_s': 0.6996181011199951, 'new_sessions_written': 75000}
+[E5] {'config': 'aof_everysec', 'rep': 1, 'acked_total': 95000, 'survived': 95000, 'lost': 0, 'survival_pct': 100.0, 'lost_seconds_of_writes': 0.0, 'recovery_s': 0.787304162979126, 'new_sessions_written': 75000}
+[E5] {'config': 'aof_always', 'rep': 0, 'acked_total': 94965, 'survived': 94965, 'lost': 0, 'survival_pct': 100.0, 'lost_seconds_of_writes': 0.0, 'recovery_s': 0.7634768486022949, 'new_sessions_written': 74965}
+[E5] {'config': 'aof_always', 'rep': 1, 'acked_total': 95000, 'survived': 95000, 'lost': 0, 'survival_pct': 100.0, 'lost_seconds_of_writes': 0.0, 'recovery_s': 0.7001895904541016, 'new_sessions_written': 75000}

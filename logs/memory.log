@@ -1,0 +1,6 @@
+[E4] {'store': 'redis', 'size': 'small', 'n': 20000, 'raw_bytes': 12092427, 'rss_delta_bytes': 16338944, 'logical_bytes': 15956808, 'rss_per_session': 816.9472, 'overhead_ratio': 1.3511716051707403}
+[E4] {'store': 'memcached', 'size': 'small', 'n': 20000, 'raw_bytes': 12092427, 'rss_delta_bytes': 16220160, 'logical_bytes': 13272427, 'rss_per_session': 811.008, 'overhead_ratio': 1.341348597762881, 'slab_malloced_bytes': 15728640}
+[E4] {'store': 'redis', 'size': 'medium', 'n': 20000, 'raw_bytes': 42630518, 'rss_delta_bytes': 55054336, 'logical_bytes': 54356808, 'rss_per_session': 2752.7168, 'overhead_ratio': 1.2914301440109173}
+[E4] {'store': 'memcached', 'size': 'medium', 'n': 20000, 'raw_bytes': 42630518, 'rss_delta_bytes': 47665152, 'logical_bytes': 43810518, 'rss_per_session': 2383.2576, 'overhead_ratio': 1.1180992921549768, 'slab_malloced_bytes': 47185920}
+[E4] {'store': 'redis', 'size': 'large', 'n': 20000, 'raw_bytes': 165553179, 'rss_delta_bytes': 209944576, 'logical_bytes': 207956808, 'rss_per_session': 10497.2288, 'overhead_ratio': 1.2681398041894443}
+[E4] {'store': 'memcached', 'size': 'large', 'n': 20000, 'raw_bytes': 165553179, 'rss_delta_bytes': 178749440, 'logical_bytes': 166733179, 'rss_per_session': 8937.472, 'overhead_ratio': 1.0797101033016103, 'slab_malloced_bytes': 178257920}
